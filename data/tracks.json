@@ -1,0 +1,19 @@
+{
+  "tracks": [
+    {
+      "title": "Mix & Master Showcase (YouTube)",
+      "type": "YouTube",
+      "url": "https://www.youtube.com/"
+    },
+    {
+      "title": "Beats Playlist (SoundCloud)",
+      "type": "SoundCloud",
+      "url": "https://soundcloud.com/"
+    },
+    {
+      "title": "Spotify Artist Page",
+      "type": "Spotify",
+      "url": "https://open.spotify.com/"
+    }
+  ]
+}
