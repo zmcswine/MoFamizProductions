@@ -1,5 +1,0 @@
-{
-  "functions": {
-    "api/book.js": { "runtime": "nodejs18.x" }
-  }
-}
